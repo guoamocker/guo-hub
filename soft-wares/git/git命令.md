@@ -1,5 +1,10 @@
 # Git 常用命令 for idea Terminal
 
+[Git 常用命令](https://note.youdao.com/s/cpMNFdI1)
+
+
+[Gitlab搭建](https://note.youdao.com/s/8vmDmX0h)
+
 
 [简书 - Git 常用命令](https://www.jianshu.com/p/46ffff059092)
 
