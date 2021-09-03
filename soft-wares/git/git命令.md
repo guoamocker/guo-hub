@@ -1,5 +1,7 @@
 # Git 常用命令 for idea Terminal
-https://www.jianshu.com/p/46ffff059092
+
+
+[简书 - Git 常用命令](https://www.jianshu.com/p/46ffff059092)
 
     git init                                                初始化仓库
 
