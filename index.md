@@ -44,6 +44,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 <small><i><a href='https://guoamocker.github.io/guo-hub/'>idea启动项目报错oom</a></i></small>
 
 
+[Gitlab搭建](https://note.youdao.com/s/8vmDmX0h)
 
 
 
